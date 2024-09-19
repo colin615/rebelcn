@@ -12,5 +12,6 @@ Then, install dependencies
 
 ```bash
 cd my project-name
+git remote rm origin
 npm install
 ```
